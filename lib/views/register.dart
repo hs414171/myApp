@@ -48,6 +48,7 @@ class Register extends StatelessWidget {
                 padding: const EdgeInsets.only(bottom: 20, left: 20, right: 20),
                 child: TextFormField(
                   controller: _password,
+                  obscureText: true,
                   decoration: InputDecoration(
                       labelText: 'Password',
                       border: OutlineInputBorder(

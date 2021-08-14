@@ -7,8 +7,7 @@ import 'package:http/http.dart' as http;
 import 'package:shared_preferences/shared_preferences.dart';
 
 class Login extends StatelessWidget {
-  final String user = 'harsh';
-  final String pass = 'goo';
+  
   final TextEditingController _username = TextEditingController();
   final TextEditingController _password = TextEditingController();
 
