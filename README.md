@@ -9,7 +9,8 @@ This is the login screen which simply requires the username and password and aut
 <img src="https://user-images.githubusercontent.com/35893312/129445991-de655e7d-c915-4aec-8a49-4b61008b888d.png" width="412" height="869">
 
 ## Register Screen
-This is the register screen which asks for the required info for registration of the user.
+This is the register screen which asks for the required info for registration of the user. You do need to verify your account befor loging it in the mail to verify the account would be recieved in the spam folder of ur mail id
+
 
 <img src="https://user-images.githubusercontent.com/35893312/129445999-e87ae9b1-6496-44af-947c-8a958e95957e.png" width="412" height="869">
 
